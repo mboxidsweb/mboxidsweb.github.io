@@ -10,7 +10,7 @@
     obj.style.width = "100%";
     obj.style.height = "100%";
     obj.type = "text/html";
-    obj.data = "https://mboxidsweb.github.io/kr-659_PurchaseOrder.htm";
+    obj.data = "https://cp8nl.github.io/Cargo-Declaration-CN.html";
 
 
     // Append the object to the container div
